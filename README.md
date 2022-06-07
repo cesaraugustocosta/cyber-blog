@@ -1,2 +1,2 @@
 # cyber-blog
-Blog criado em Live da Satella Soft
+Projeto criado em Lives do canal da Satella Soft
