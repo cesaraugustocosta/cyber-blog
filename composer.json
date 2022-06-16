@@ -1,0 +1,15 @@
+{
+    "name": "gunnar/cyber-blog",
+    "description": "Projeto de Blog desenvolvido em uma série de video-aulas da SatellaSoft",
+    "require": {
+        "twig/twig": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        },
+        "files": [
+          "app/config/config.php"
+        ]
+    }
+}
